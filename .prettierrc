@@ -1,7 +1,9 @@
 {
+    "semi": false,
+    "trailingComma": "all",
     "singleQuote": false,
-    "arrowParens": "avoid",
-    "printWidth": 100,
+    "printWidth": 125,
     "tabWidth": 4,
-    "endOfLine": "auto"
+    "arrowParens": "avoid",
+    "endOfLine": "lf"
 }
